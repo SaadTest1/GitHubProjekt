@@ -8,7 +8,11 @@ public class Test {
 
 	public static void main(String[] args) {
 		System.out.println("nkkjlkjlkj");
-		sy
+		//neu1
+		System.err.println("kkkhk");
+		//neu2
+		System.err.println("Neu 2");
+		
 
 	}
 
